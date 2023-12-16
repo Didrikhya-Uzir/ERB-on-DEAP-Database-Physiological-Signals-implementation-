@@ -1,11 +1,11 @@
 """
-Pomocu ove skripte se ucitavaju svi raw signali i vrsi nad njima pretprocesiranje.
-Probacemo kao sto smo se dogovorili, da uradimo prvo klasifikaciju nad podacima 
-koji su pretprocesirani, pa kasnije mozemo npr da uporedimo rezultate sa onima
-kad mi odradimo taj korak. 
+With the help of this script, all raw signals are loaded and pre-processing is performed on them.
+We will try, as we agreed, to first classify the data
+which are preprocessed, so later we can, for example, compare the results with those
+when we do that step.
 
-Ucitavanje raw signala se vrsi pomocu biblioteke pyedflib tako da je prvo potrebno
-prvo instalirati tu biblioteku u anaconda shellu pomocu komande 
+Loading the raw signal is done using the pyedflib library so it is necessary first
+first install that library in anaconda shell using command
 pip install pyEDFlib
 """
 

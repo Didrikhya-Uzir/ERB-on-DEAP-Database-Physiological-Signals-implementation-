@@ -6,12 +6,12 @@ Created on Tue Jan  5 18:06:31 2021
 """
 
 import numpy as np
-import pickle5 as pickle 
+import pickle 
 import pandas as pd
 import tqdm
 import os
-import pyphysio.filters.Filters as filters
-from pyphysio import EvenlySignal
+import pyphysio.filters as filters
+from pyphysio import create_signal
 from scipy.signal import find_peaks
 import pyphysio.indicators.FrequencyDomain as fq_ind
 import pyphysio.estimators.Estimators as estimators

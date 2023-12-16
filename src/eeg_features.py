@@ -1,8 +1,8 @@
 """
-Implementirane su funkcije za izracunavanje obelezja iz 2., 3. i 4. reda
-iz Tamarine tabele
-Koriscena je biblioteka pyphysio, toplo preporucujem posto su mnoge funkcije
-vec napisane, i to jos za ekg,emg i gsr pored eeg signala
+The functions for calculating the features from the 2nd, 3rd and 4th rows have been implemented
+from Tamar's chart
+The pyphysio library was used, I highly recommend it because it has many functions
+already written, and for ekg, emg and gsr in addition to eeg signals
 
 """
 
